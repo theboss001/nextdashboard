@@ -50,7 +50,7 @@ export default function Pagination({ totalPages }: { totalPages: number }) {
 //       </div>
 //     </>
 //   );
-// }
+}
 
 function PaginationNumber({
   page,
