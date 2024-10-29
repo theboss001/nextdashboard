@@ -50,7 +50,7 @@ import { generatePagination } from '@/app/lib/utils';
 //       </div>
 //     </>
 //   );
-}
+// }
 
 function PaginationNumber({
   page,
